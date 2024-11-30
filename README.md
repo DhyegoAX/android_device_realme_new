@@ -20,4 +20,4 @@ Front Camera | 16 MP, f/2.1, 26mm (wide)
 
 ![Realme Q3s/9se]
 
-(https://fdn2.gsmarena.com/vv/pics/realme/realme-q3s-1.jpg "Realme Q3s")
+(https://fdn2.gsmarena.com/vv/pics/realme/realme-q3s-1.jpg)
